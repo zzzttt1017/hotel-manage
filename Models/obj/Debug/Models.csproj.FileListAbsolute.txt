@@ -1,0 +1,11 @@
+E:\github\Hotel\Models\bin\Debug\Models.dll
+E:\github\Hotel\Models\bin\Debug\Models.pdb
+E:\github\Hotel\Models\obj\Debug\Models.dll
+E:\github\Hotel\Models\obj\Debug\Models.pdb
+E:\github\Hotel\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\someCat\Desktop\Hotel-master\Models\bin\Debug\Models.dll
+C:\Users\someCat\Desktop\Hotel-master\Models\bin\Debug\Models.pdb
+C:\Users\someCat\Desktop\Hotel-master\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\someCat\Desktop\Hotel-master\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\someCat\Desktop\Hotel-master\Models\obj\Debug\Models.dll
+C:\Users\someCat\Desktop\Hotel-master\Models\obj\Debug\Models.pdb
